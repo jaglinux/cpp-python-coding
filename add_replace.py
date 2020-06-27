@@ -26,3 +26,19 @@ def replace(input):
 input=['a', 'c', 'd', 'b', 'b', 'c', 'a']
 replace(input)
 print(input)
+
+//less time complexity but more space complexity
+def replace_1(input):
+    output=[]
+    for i in input:
+        if i == 'a':
+            output.append('d')
+            output.append('d')
+        elif i != 'b':
+            output.append(i)
+    return output
+
+input=['a', 'c', 'd', 'b', 'b', 'c', 'a']
+output = replace(input)
+print(input)
+print(output)
