@@ -39,6 +39,6 @@ def replace_1(input):
     return output
 
 input=['a', 'c', 'd', 'b', 'b', 'c', 'a']
-output = replace(input)
+output = replace_1(input)
 print(input)
 print(output)
