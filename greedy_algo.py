@@ -25,3 +25,4 @@ for i in h:
         result.append(i)
 
 print(result)
+#['C', 'A', 'C', 'A', 'C', 'A', 'B', 'C', 'A', 'B', 'C']
