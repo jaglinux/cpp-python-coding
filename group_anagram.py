@@ -12,3 +12,4 @@ for v in h.values():
     result.append(v)
 
 print(result)
+# [['eat', 'tea', 'ate'], ['tan', 'nat'], ['bat']]
