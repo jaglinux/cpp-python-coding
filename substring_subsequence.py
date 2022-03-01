@@ -4,7 +4,7 @@ def substring(s, t):
             if t[j] != s[j+i]:
                 break
         else:
-            return i
+            return True
     else:
         return False
 
