@@ -11,6 +11,12 @@ def main(n):
 
 print(main(4))
 
+# Time Complexity
+# O(n)
+#Space Complexity
+# recursive stack space + dp map
+# O(n) + O(n)
+
 ## With DP
 # 4 3 2
 # 3 2 1
