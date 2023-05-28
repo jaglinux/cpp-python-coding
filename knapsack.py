@@ -16,3 +16,5 @@ if __name__ == '__main__':
     W = 50
     n = len(profit)
     print(knapSack(W, weight, profit, n))
+
+# answer is 220
