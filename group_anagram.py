@@ -13,9 +13,9 @@ for v in h.values():
 
 print(result)
 # [['eat', 'tea', 'ate'], ['tan', 'nat'], ['bat']]
-# words = [ "eat","tea","tan","ate","nat","bat"]
 
 # USE TUPLE
+# words = [ "eat","tea","tan","ate","nat","bat"]
 # h = {}
 # result=[]
 
